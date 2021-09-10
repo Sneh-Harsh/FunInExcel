@@ -1,0 +1,3 @@
+Wrirting first line 
+This is a HERE DOCUMENT
+Terminating using EOF -- Third line
